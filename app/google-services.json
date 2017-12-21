@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "815038353400",
+    "firebase_url": "https://vidyadrive-edd6b.firebaseio.com",
+    "project_id": "vidyadrive-edd6b",
+    "storage_bucket": "vidyadrive-edd6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815038353400:android:2bdc2a6e028c9e1e",
+        "android_client_info": {
+          "package_name": "com.example.harshit.vidyadrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815038353400-bdoo3fumlphua7c3sb3ef4559832kusc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshit.vidyadrive",
+            "certificate_hash": "4dfed66a41da0712c9d303a7fab9f718a5a816a0"
+          }
+        },
+        {
+          "client_id": "815038353400-8ba9cr4pba2elbneqdhmuuarc8i8ndtk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "815038353400-8ba9cr4pba2elbneqdhmuuarc8i8ndtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo1idJlXqtE_gAwHVqZ53YTfh6PVNkTOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815038353400-8ba9cr4pba2elbneqdhmuuarc8i8ndtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
